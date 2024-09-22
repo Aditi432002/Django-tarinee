@@ -1,1 +1,1 @@
-# Django-tarinee
+# Django-test
